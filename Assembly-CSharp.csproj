@@ -13,7 +13,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{c3e59a2f-f80e-0f44-50f2-d027b4158ae5}</ProjectGuid>
+    <ProjectGuid>{29a93466-0e49-4dc8-044c-aa45c2edb154}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -333,10 +333,10 @@
  <HintPath>/home/jeremy/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
  </Reference>
  <Reference Include="System.IO.Compression.FileSystem">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/PackageCache/com.unity.connect.share@4.1.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/PackageCache/com.unity.connect.share@4.1.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>/home/jeremy/Unity/Hub/Editor/2020.3.12f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -684,73 +684,73 @@
  <HintPath>/home/jeremy/Unity/Hub/Editor/2020.3.12f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InteractiveTutorials.Core.Scripts">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridgeDev.001">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
  </Reference>
  <Reference Include="Cinemachine">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.cinemachine.editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Runtime">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.InteractiveTutorialsFramework">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Play.Publisher.Editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.Play.Publisher.Editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.Play.Publisher.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InteractiveTutorials.Core">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
  </Reference>
  <Reference Include="Unity.EditorCoroutines.Editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.2DPlatformer.Tutorials.csproj">
-      <Project>{eff099b8-8f96-7022-e40e-075a953f3bbb}</Project>
+      <Project>{bee8296e-3b3c-a07e-ee0e-6c9870ef7312}</Project>
       <Name>Unity.2DPlatformer.Tutorials</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Platformer.Tutorials.csproj">
-      <Project>{9ae5ec6d-a7f3-853e-ade4-a659cd91fb54}</Project>
+      <Project>{ebd860e8-7b9c-7ccd-4503-35bf6246abef}</Project>
       <Name>Unity.Platformer.Tutorials</Name>
     </ProjectReference>
   </ItemGroup>

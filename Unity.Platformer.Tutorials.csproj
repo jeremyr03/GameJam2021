@@ -13,7 +13,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9ae5ec6d-a7f3-853e-ade4-a659cd91fb54}</ProjectGuid>
+    <ProjectGuid>{ebd860e8-7b9c-7ccd-4503-35bf6246abef}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -286,22 +286,22 @@
  <HintPath>/home/jeremy/Unity/Hub/Editor/2020.3.12f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Antlr3.Runtime">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="System.IO.Compression.FileSystem">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/PackageCache/com.unity.connect.share@4.1.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/PackageCache/com.unity.connect.share@4.1.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
  </Reference>
  <Reference Include="log4netPlastic">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="unityplastic">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/home/jeremy/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -652,22 +652,22 @@
  <HintPath>/home/jeremy/Unity/Hub/Editor/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Play.Publisher.Editor">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.Play.Publisher.Editor.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.Play.Publisher.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InteractiveTutorials.Core">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>/home/jeremy/Documents/Programming/GameJam2021/GameJam2021/Game_Jam_2021/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>/home/jeremy/Documents/Programming/GameJam2021/Game_Jams/GameJam2021/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
